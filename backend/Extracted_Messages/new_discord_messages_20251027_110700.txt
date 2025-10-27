@@ -1,0 +1,169 @@
+[2025-10-27 11:10:04] rr rr as
+[2025-10-27 11:10:04] eS Fe ele
+[2025-10-27 11:10:04] 5 ®@ EvaPanda Alerts (BBQ 25-10-2025 01:19
+[2025-10-27 11:10:04] ~ Update:
+[2025-10-27 11:10:04] 4 ‘SPY on the daily; keep watch of 681 next week. With FOMC + tech
+[2025-10-27 11:10:04] Ea nein eneeicteneetonn Eeeo mes neritee heres
+[2025-10-27 11:10:04] 4 close above 674, i'll be bullish heading into next week.
+[2025-10-27 11:10:04] * Back test of 674 and hold mid-week, | think we really into end of
+[2025-10-27 11:10:04] month (EOM)
+[2025-10-27 11:10:04] © Turning Points Entities, Inc. Official EvaPanda Bot. For Information
+[2025-10-27 11:10:04] purposes only, net financial advice.
+[2025-10-27 11:10:04] ~ 10/24/25 © 03:49:35 PM
+[2025-10-27 11:10:04] @1 81 ®
+[2025-10-27 11:10:04] Look at that, we getting out pullback into EOD. lets see what Monday has for us. |
+[2025-10-27 11:10:04] want a small dip to setup for end of month push.
+[2025-10-27 11:10:04] 10/24/25 © 03:55:29 PM
+[2025-10-27 11:10:11] backend > screenshots > raw > [i screenshot_A.png
+[2025-10-27 11:10:11] PROBLEMS OUTPUT  DEBUGCONSOLE TERMINAL PORTS
+[2025-10-27 11:10:11] python - backend
+[2025-10-27 11:10:11] +. 08-19
+[2025-10-27 11:10:11] © PS C:\Users\Harini Selvaraj \Documents\auto_tarde\backend> python extract_text.py
+[2025-10-27 11:10:11] & starting Discord chat monitoring in 10 seconds...
+[2025-10-27 11:10:11] Traceback (most recent call last):
+[2025-10-27 11:10:11] File "C:\Users\Harini Selvaraj\Documents\auto_tarde\backend\extract_text.py", line 80, in <module>
+[2025-10-27 11:10:11] discord_win = find_discord_window()
+[2025-10-27 11:10:11] File "C:\Users\Harini Selvaraj\Documents\auto_tarde\backend\screenshot_discord.py", line 28, in find_discord_window
+[2025-10-27 11:10:11] if win.isVisible and not win.isMinimized:
+[2025-10-27 11:10:11] AttributeError: ‘Win32Window’ object has no attribute ‘isVisible’. Did you mean:
+[2025-10-27 11:10:11] PS C:\Users\Harini Selvaraj\Documents\auto_tarde\backend> python extract_text.py
+[2025-10-27 11:10:11] @ Found Discord window: #9@Jevapanda | Underground Traders - Discord
+[2025-10-27 11:10:11] @ Discord window found. Initializing...
+[2025-10-27 11:10:11] fm Baseline captured (32 lines). Starting loop...
+[2025-10-27 11:10:11] BB No new messages. Continuing.
+[2025-10-27 11:10:11] ‘visible’?
+[2025-10-27 11:10:11] ¥ backend
+[2025-10-27 11:10:11] > _pycache_
+[2025-10-27 11:10:11] > Extracted_Messages
+[2025-10-27 11:10:11] ~ screenshots
+[2025-10-27 11:10:11] V extracted
+[2025-10-27 11:10:11] v raw
+[2025-10-27 11:10:11] © screenshot_A.png
+[2025-10-27 11:10:11] Y venv
+[2025-10-27 11:10:11] > Include
+[2025-10-27 11:10:11] > Lib
+[2025-10-27 11:10:11] > Scripts
+[2025-10-27 11:10:11] gitignore
+[2025-10-27 11:10:11] & pyvenv.cfg
+[2025-10-27 11:10:11] ® extract_text.py
+[2025-10-27 11:10:11] ® screenshot discord.py
+[2025-10-27 11:10:11] @ README.md
+[2025-10-27 11:10:17] backend > screenshots > raw > [i screenshot A.png
+[2025-10-27 11:10:17] PROBLEMS — OUTPUT
+[2025-10-27 11:10:17] Ps C:\Users\
+[2025-10-27 11:10:17] IE Starting Discord ehat monitoring in 10 seconds.
+[2025-10-27 11:10:17] Tracatock (most recent call Jas)
+[2025-10-27 11:10:17] File °c: \dsers\arint Selver
+[2025-10-27 11:10:17] i eae ecard
+[2025-10-27 11:10:17] 1 sin-iaViible and not win-AsMininkzed
+[2025-10-27 11:10:17] 49s Users orn
+[2025-10-27 11:10:17] Satie ee SS
+[2025-10-27 11:10:17] tlevapande | Underground Traders ~ Discord
+[2025-10-27 11:10:17] Mi Discord window found. Initial zing
+[2025-10-27 11:10:17] ‘me faceline captured (8) Lines). Starting Toop.
+[2025-10-27 11:10:17] Bite new messoges. Continuing
+[2025-10-27 11:10:17] DEBUG CONSOLE TERMINAL PORTS.
+[2025-10-27 11:10:17] Elorien-teane A +» O &
+[2025-10-27 11:10:17] A. Selvaraj\Documents\auto_tarde\beckend> python extract text.py
+[2025-10-27 11:10:17] [S soe Ae v
+[2025-10-27 11:10:17] ~ backend
+[2025-10-27 11:10:17] | screenshot A.png
+[2025-10-27 11:10:17] exact egy
+[2025-10-27 11:10:17] @- | co x
+[2025-10-27 11:10:17] python - backend Z\ ++ v
+[2025-10-27 11:10:17] Users\Harini Selvaraj\Documents\auto_tarde\backend> python extract_text.py
+[2025-10-27 11:10:17] AttributeError:
+[2025-10-27 11:10:17] ‘Win32Window’ object has no attribute ‘isVisible’. Did you mean:
+[2025-10-27 11:10:17] “PS C:\Users\Harini Selvaraj\Documents\auto_tarde\backend> python extract_text.py
+[2025-10-27 11:10:17] tm Baseline captured (32 lines). Starting loop...
+[2025-10-27 11:10:17] ll Saved 16 new messages to new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:17] V venv
+[2025-10-27 11:10:17] ® extract_text py
+[2025-10-27 11:10:24] backend > screenshots > raw > [i screenshot A.png ¥ backend
+[2025-10-27 11:10:24] ‘backend > shots > raw > Sb sereensho ce > _pycache_
+[2025-10-27 11:10:24] > py > Extracted_Messages
+[2025-10-27 11:10:24] Y socestots © screenshots
+[2025-10-27 11:10:24] vw > extracted
+[2025-10-27 11:10:24] Cente ¥
+[2025-10-27 11:10:24] aS > raw
+[2025-10-27 11:10:24] >t  venv
+[2025-10-27 11:10:24] = or > Include
+[2025-10-27 11:10:24] oes, > Lib
+[2025-10-27 11:10:24] © ReEADWEmd > Scripts
+[2025-10-27 11:10:24] mov cquecoent TUN Elrmn-mans A +> 0 8 & pyvenv.cfg
+[2025-10-27 11:10:24] 5 C:\Users\arink Selvaraj \Dociments\auto.tarde\backend> python extract. text.py ® extract_text.py
+[2025-10-27 11:10:24] if cin lati od ot in oti @ oven
+[2025-10-27 11:10:24] ‘ips C:\sersVorint Selvara\ocomets\ait,tardebockend> python extrocttert-py
+[2025-10-27 11:10:24] Uh round vlscord window: televensde I Undergond Troers ~oscord
+[2025-10-27 11:10:24] PROBLEMS OUTPUT DEBUGCONSOLE TERMINAL — PORTS b-] python - backend AV ++ v we | tx
+[2025-10-27 11:10:24] AttributeError: ‘Win32Window’ object has no attribute ‘isVisible’. Did you mean: ‘visible’?
+[2025-10-27 11:10:24] PS C:\Users\Harini Selvaraj\Documents\auto_tarde\backend> python extract_text.py
+[2025-10-27 11:10:24] fm Baseline captured (32 lines). Starting loop...
+[2025-10-27 11:10:24] ll Saved 34 new messages to new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:30] backend > screenshots > raw > [i screenshot A.png
+[2025-10-27 11:10:30] + scenetot decoy
+[2025-10-27 11:10:30] ocmconee TR Brienne +» 0 @
+[2025-10-27 11:10:30] A. Selvaraj\Documents\auto_tarde\beckend> python extract text.py
+[2025-10-27 11:10:30] Documents \out, tarde\backend> python extract text-Py
+[2025-10-27 11:10:30] 1 Starting Discord chat monitoring in 10 seconds
+[2025-10-27 11:10:30] ind Discord window: vonands | Underground Traders - Discord
+[2025-10-27 11:10:30] WDiscord window fom. Initializing
+[2025-10-27 11:10:30] {baseline captured (32 Lines). starting loop
+[2025-10-27 11:10:30] Bite row meceagee. Catinuing
+[2025-10-27 11:10:30] 1B Seved 16 now mesoges to new discord messages 20251027 11070.txt
+[2025-10-27 11:10:30] PROBLEMS OUTPUT  DEBUGCONSOLE TERMINAL PORTS. B-] python - backend ZA + v
+[2025-10-27 11:10:30] (i Saved 16 new messages to new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:30] (i Saved 34 new messages to new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:30] ‘i Saved 31 new messages to new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:30] ¥ backend
+[2025-10-27 11:10:30] > _pycache_
+[2025-10-27 11:10:30] > Extracted_Messages
+[2025-10-27 11:10:30] ~ screenshots
+[2025-10-27 11:10:30] > extracted
+[2025-10-27 11:10:30] > raw
+[2025-10-27 11:10:30] venv
+[2025-10-27 11:10:30] > Include
+[2025-10-27 11:10:30] > Lib
+[2025-10-27 11:10:30] > Scripts
+[2025-10-27 11:10:30] & pyvenv.cfg
+[2025-10-27 11:10:30] ® extract_text.py
+[2025-10-27 11:10:30] ® screenshot discord.py
+[2025-10-27 11:10:30] @ README.md
+[2025-10-27 11:10:37] backe
+[2025-10-27 11:10:37] end > Extracted Messages > = new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:37] 20 (2025-10-2/ 1 File “C:\Users\Harina Selvaraj \Vocuments\auto_tarde\backend\screenshot_disco
+[2025-10-27 11:10:37] 27 [2025-10-27 if win.isVisible and not win.isMinimized:
+[2025-10-27 11:10:37] 28 [2025-10-27 AttributeError: ‘Win32Window’ object has no attribute ‘isVisible’. Did you m
+[2025-10-27 11:10:37] 29 [2025-10-27 211] PS C:\Users\Harini Selvaraj\Documents\auto_tarde\backend> python extract_tex
+[2025-10-27 11:10:37] 30 [2025-10-27 211] @ Found Discord window: #9@Jevapanda | Underground Traders - Discord
+[2025-10-27 11:10:37] 31 [2025-10-27 211] @ Discord window found. Initializing...
+[2025-10-27 11:10:37] 32 [2025-10-27 fm Baseline captured (32 lines). Starting loop...
+[2025-10-27 11:10:37] 33 [2025-10-27 BB No new messages. Continuing.
+[2025-10-27 11:10:37] 34 [2025-10-27 ‘visible’?
+[2025-10-27 11:10:37] 35 [2025-10-27 11:10:11] ¥ backend
+[2025-10-27 11:10:37] 36 [2025-10-27 _pycache_
+[2025-10-27 11:10:37] 37 [2025-10-27 Extracted Messages
+[2025-10-27 11:10:37] 38 [2025-10-27 screenshots
+[2025-10-27 11:10:37] 39 [2025-10-27 extracted
+[2025-10-27 11:10:37] 40 [2025-10-27 raw
+[2025-10-27 11:10:37] 41 [2025-10-27 screenshot_A.png
+[2025-10-27 11:10:37] 42 [2025-10-27 venv
+[2025-10-27 11:10:37] 43 [2025-10-27 Include
+[2025-10-27 11:10:37] 44 [2025-10-27 Lib
+[2025-10-27 11:10:37] 45 [2025-10-27 Scripts
+[2025-10-27 11:10:37] 46 [2025-10-27 11: gitignore
+[2025-10-27 11:10:37] PROBLEMS OUTPUT DEBUG CONSOLE TERMINAL —_PORTS Bel python - backend A + y OO WW
+[2025-10-27 11:10:37] \Users\Harini Selvaraj\Documents\auto_tarde\backend> python extract_text.py
+[2025-10-27 11:10:37] Starting Discord chat monitoring in 1 seconds...
+[2025-10-27 11:10:37] Found Discord window: ##@Jevapanda | Underground Traders - Discord
+[2025-10-27 11:10:37] Discord window found. Initializing. ..
+[2025-10-27 11:10:37] Baseline captured (32 lines). Starting loop...
+[2025-10-27 11:10:37] No new messages. Continuing.
+[2025-10-27 11:10:37] Saved 16 new messages to new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:37] Saved 34 new messages to new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:37] Saved 31 new messages to new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:37] Saved 21 new messages to new_discord_messages_20251027_110700.txt
+[2025-10-27 11:10:37] ~ backend
+[2025-10-27 11:10:37] V Extracted Messages
+[2025-10-27 11:10:37] = new_discord_messages_20251027_1...
+[2025-10-27 11:10:37] © screenshots
