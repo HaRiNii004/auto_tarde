@@ -1,7 +1,7 @@
 import os
 import time
 from backend.screenshot_discord import find_discord_windows, capture_discord_chat, SAVE_PATHS
-from backend.extract_text import get_chat_text, find_new_messages, save_new_messages
+from backend.extract_text import get_chat_text, find_new_messages, save_new_messages, group_by_marker
 
 # --- CONFIGURATION ---
 CHECK_INTERVAL_SECONDS = 5  # delay between captures
@@ -25,15 +25,23 @@ def run_monitoring():
             'B': os.path.join(SAVE_PATHS[name], f"{name}_B.png")
         } for name in windows.keys()
     }
-    previous_texts = {name: [] for name in windows.keys()}
+    previous_blocks = {name: [] for name in windows.keys()}
 
     # --- INITIAL CAPTURE ---
     for name, win in windows.items():
         if not capture_discord_chat(file_paths[name]['A'], win):
             print(f"❌ Failed to take initial screenshot for {name}. Exiting.")
             return
-        previous_texts[name] = get_chat_text(file_paths[name]['A'])
-        print(f"📸 Baseline for {name} captured ({len(previous_texts[name])} lines).")
+        
+        if name == "the_mountain":
+            marker = "Chewbacka (The Mountain)"
+        elif name == "eva_panda":
+            marker = "EvaPanda Alerts"
+        else:
+            marker = "" # Should not happen
+
+        previous_blocks[name] = group_by_marker(get_chat_text(file_paths[name]['A']), marker)
+        print(f"📸 Baseline for {name} captured ({len(previous_blocks[name])} blocks).")
 
     print("\n🚀 Starting monitoring loop... Press Ctrl+C to stop.")
 
@@ -54,20 +62,30 @@ def run_monitoring():
                 # 2. Extract Text from B
                 current_lines = get_chat_text(path_B)
 
-                # 3. Compare
-                if current_lines == previous_texts[name]:
+                # 3. Group messages
+                if name == "the_mountain":
+                    marker = "Chewbacka (The Mountain)"
+                elif name == "eva_panda":
+                    marker = "EvaPanda Alerts"
+                else:
+                    marker = "" # Should not happen
+                
+                current_blocks = group_by_marker(current_lines, marker)
+
+                # 4. Compare
+                if current_blocks == previous_blocks[name]:
                     # No change
                     os.remove(path_A)
                     os.rename(path_B, path_A)
                     print(f"🔁 No new messages for {name}.", end='\r')
                 else:
                     # Content changed
-                    new_messages = find_new_messages(current_lines, previous_texts[name])
+                    new_messages = find_new_messages(current_blocks, previous_blocks[name])
                     if new_messages:
                         save_new_messages(name, new_messages)
                     
                     # Update reference
-                    previous_texts[name] = current_lines
+                    previous_blocks[name] = current_blocks
                     os.remove(path_A)
                     os.rename(path_B, path_A)
 
