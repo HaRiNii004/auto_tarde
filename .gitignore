@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+
+# Specific to this project
+Extracted_Message/
+Extracted_Messages/
+screenshots/
+test_area.png
